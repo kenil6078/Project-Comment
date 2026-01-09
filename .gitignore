@@ -1,16 +1,2 @@
-# Ignore node_modules everywhere
-/node_modules/
-
-# Ignore environment files
-/.env
-
-# Build files
-dist/
-build/
-
-# Logs
-npm-debug.log*
-yarn-error.log*
-
-# OS
-.DS_Store
+**/node_modules/
+**/.env
