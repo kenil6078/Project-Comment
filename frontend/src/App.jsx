@@ -2,7 +2,7 @@ import React from 'react'
 import Comment from './components/Comment'
 
 const App = () => {
-  return (
+return (
     <div>
       <Comment />
     </div>
